@@ -340,7 +340,7 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @software{prnuauthenticator2026,
-  author = {Anubhav (Ember)},
+  author = {Anubhav},
   title = {PRNU Authenticator: Camera Fingerprint Authentication for iOS},
   year = {2026},
   publisher = {GitHub},
@@ -352,8 +352,8 @@ If you use this work in your research, please cite:
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: [@anubhavbharadwaaj](https://github.com/AnubhavBharadwaaj)
+- **Email**: anubhav27071997@gmail.com
 - **Competition**: CVPR 2026 Robust Deepfake Detection Challenge
 
 ---
