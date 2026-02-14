@@ -312,7 +312,7 @@ This project is released under the **MIT License**. See [LICENSE](LICENSE) for d
 ```
 MIT License
 
-Copyright (c) 2026 Ember (Anubhav)
+Copyright (c) 2026 (Anubhav)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
